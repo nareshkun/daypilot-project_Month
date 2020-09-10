@@ -1,4 +1,5 @@
-# DayPilot UI Builder Template Project
+# DayPilot Month calendar  with bar colors based on status Project
+Apply traditional theme for month calendar
 
 ## Versions
 
